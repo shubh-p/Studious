@@ -29,8 +29,15 @@ Here are some screenshots from the FRT project:
 ## Contact Us
 ![Screenshot (1897)](https://github.com/shubh-p/Studious/assets/89768939/f2b054f1-2b92-4b4e-8006-bc57b9dfa5cf)
 
+## WAF 
+
+Site is protected against scripting attacks , SQL injection attacks etc. because of firewall
+![Screenshot (1899)](https://github.com/shubh-p/Studious/assets/89768939/c87b3327-9ddb-4fdc-a027-ca17ad8727b2)
+
+
 ## Azure Resources
-![Screenshot (1898)](https://github.com/shubh-p/Studious/assets/89768939/a9d9dfbf-b35c-4afa-8d52-0000491e3304)
+![Screenshot (1898)](https://github.com/shubh-p/Studious/assets/89768939/0215c735-0bbf-4193-a575-ac2b82d0dc8b)
+
 
 
 Feel free to explore these screenshots to get a glimpse of the FRT project's user interface and features.
