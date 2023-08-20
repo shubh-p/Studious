@@ -3,6 +3,9 @@
 # Studious
 An innovative e-learning platform aimed at bridging the gap in accessible, high-quality education. The platform addresses the challenge of limited educational opportunities by offering a diverse range of world-class courses. This strategic approach enables potential learners to to explore a variety of subjects and interact with platform features.
 
+## Tech stack used
+HTML , CSS , JS , Bootstrap , Azure Static Web Apps , Azure Front Door , Azure Web Application Firewall
+
 
 ## Website Link
 
@@ -19,13 +22,23 @@ Here are some screenshots from the FRT project:
 
 ## Course Page
 ![Screenshot (1895)](https://github.com/shubh-p/Studious/assets/89768939/6d64b030-cd2c-40fd-8628-f5900f1ac52b)
+
 ## About
 ![Screenshot (1896)](https://github.com/shubh-p/Studious/assets/89768939/74daf2ee-5bd1-4c09-9884-6edbaeb8c619)
+
 ## Contact Us
-5. [Screenshot 5](![Screenshot (1897)](https://github.com/shubh-p/Studious/assets/89768939/f2b054f1-2b92-4b4e-8006-bc57b9dfa5cf)
-)
+![Screenshot (1897)](https://github.com/shubh-p/Studious/assets/89768939/f2b054f1-2b92-4b4e-8006-bc57b9dfa5cf)
+
+## Azure Resources
+![Screenshot (1898)](https://github.com/shubh-p/Studious/assets/89768939/a9d9dfbf-b35c-4afa-8d52-0000491e3304)
+
 
 Feel free to explore these screenshots to get a glimpse of the FRT project's user interface and features.
+
+## Demo link
+
+You can watch the demo video here
+
 
 ## Getting Started
 
